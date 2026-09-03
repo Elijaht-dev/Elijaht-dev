@@ -15,7 +15,3 @@ I like connecting services and making everyday tools more useful.
 
 A Home Assistant integration bringing Mistral AI to conversations,
 AI tasks, speech-to-text, and text-to-speech.
-
-### Tools I work with
-
-Home Assistant · Python · Mistral AI
